@@ -20,7 +20,7 @@ const About = () => {
       <Navbar />
       <section className="hero-section">
         <p>Welcome to </p>
-        <h1>Thapa Technical About Page</h1>
+        <h1>About Page</h1>
       </section>
     </>
   );
@@ -32,7 +32,7 @@ const Service = () => {
       <Navbar />
       <section className="hero-section">
         <p>Welcome to </p>
-        <h1>Thapa Technical Service Page</h1>
+        <h1> Service Page</h1>
       </section>
     </>
   );
@@ -44,7 +44,7 @@ const Contact = () => {
       <Navbar />
       <section className="hero-section">
         <p>Welcome to </p>
-        <h1>Thapa Technical Contact Page</h1>
+        <h1> Contact Page</h1>
       </section>
     </>
   );
